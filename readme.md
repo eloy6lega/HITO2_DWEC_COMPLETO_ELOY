@@ -54,5 +54,5 @@ This project is licensed under the [MIT License](license).
 
 ## Contact
 
-- Your Name - [eloypg.web@gmail.com](mailto:eloypg.web@gmail.com)
+- Eloy Pérez - [eloypg.web@gmail.com](mailto:eloypg.web@gmail.com)
 - Project Link: [https://github.com/eloy6lega/HITO2_DWEC_COMPLETO_ELOY](https://github.com/eloy6lega/HITO2_DWEC_COMPLETO_ELOY)
